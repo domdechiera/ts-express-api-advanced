@@ -1,1 +1,6 @@
-# ts-express-api-advanced
+# Advanced RESTful API
+
+- Node
+- Express
+- TypeScript
+- MongoDB Atlas
